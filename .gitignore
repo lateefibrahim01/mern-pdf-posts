@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+/build
+/public
+
+# Environment variables
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Log files
+logs/
+*.log
+
+# Compiled binary addons
+*.node
+
+# macOS files
+.DS_Store
+
+# Compiled Python files
+__pycache__/
+
+# User-specific files
+*.iml
+*.DS_Store
+*.swp
